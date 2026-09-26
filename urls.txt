@@ -1,0 +1,17 @@
+# Paste your 11 iCal/ICS subscription URLs below, one per line.
+# Lines starting with # are ignored.
+# Example:
+# https://example.com/calendar1.ics
+# webcal://example.com/calendar2.ics
+
+https://www.matchesio.com/s/BbVMx4iKCM0mP5QhNejh0l3xqEyYJjn2jouR6te8eoc.ics
+https://www.matchesio.com/s/mczXI5_KeXaEcBgYMSKMWrWRrIyhmYNB0Ix8I2V5SiY.ics
+https://www.matchesio.com/s/uwvWVpWei7In-6e6CRsfRmeCVLDE2lrXC8mY7Pjj9a0.ics
+https://www.matchesio.com/s/0Vom4LydWmMbVO-Hbuilvkq7V2yBGXBaSpNKXWRKWJQ.ics
+https://www.matchesio.com/s/ievD3fh8HF5wWGrL_6j4EhqpK487Kxuf7r-UeKoEDBQ.ics
+https://www.matchesio.com/s/TpB02SEG8rnW8WsKGhy7KOBxN1Lsvv5_TRUYrd5PRjw.ics
+https://www.matchesio.com/s/4j8_cLVsp1x01GIml0xbYfjen0iwIOQAJOpO9MYpyJU.ics
+https://www.matchesio.com/s/cGnUNw-PZXvuG-WoHMUUesmv1TKWupidJ5Y5gPzbFSg.ics
+https://www.matchesio.com/s/Xe_aOWU0FF3ClrpyWHhy0nQhBiAyW1nfmOPUDltiBo8.ics
+https://www.matchesio.com/s/TBbUjHj8N4GB2u1UK4L0g1FpQ53Aq4RBMBK_ORH7x2s.ics
+https://www.matchesio.com/s/uC4AE7IDb9lRyCo-2SVcfRkoWdU865lZKPWGBkXPsbc.ics
