@@ -33,3 +33,5 @@
 2026-10-08 08:56:50.041551 - Merge complete. 0 feeds ok, 3 failed, 0 duplicates removed, 0 preferred-team matches found.
 2026-10-08 08:56:50.260197 - GIT PUSH FAILED: Command '['git', 'push']' returned non-zero exit status 128.
 2026-10-12 08:00:07.830004 - Merge complete. 3 feeds ok, 0 failed, 0 duplicates removed, 49 preferred-team matches found.
+2026-10-12 08:00:10.064735 - Pushed to GitHub Pages successfully.
+2026-10-15 08:00:16.045222 - Merge complete. 3 feeds ok, 0 failed, 0 duplicates removed, 47 preferred-team matches found.
