@@ -49,3 +49,8 @@
 2026-11-05 08:05:28.168814 - Merge complete. 3 feeds ok, 0 failed, 0 duplicates removed, 38 preferred-team matches found.
 2026-11-05 08:05:30.868014 - Pushed to GitHub Pages successfully.
 2026-11-09 08:15:42.972513 - Merge complete. 3 feeds ok, 0 failed, 0 duplicates removed, 37 preferred-team matches found.
+2026-11-09 08:15:45.403669 - Pushed to GitHub Pages successfully.
+2026-11-12 08:00:06.482502 - FAILED fetching https://www.matchesio.com/s/TvtDMfYfcIMMPoi8RnMIvwptJduERpvbHKKKb9FGi6o.ics: 404 Client Error: Not Found for url: https://www.matchesio.com/s/TvtDMfYfcIMMPoi8RnMIvwptJduERpvbHKKKb9FGi6o.ics
+2026-11-12 08:00:06.586004 - FAILED fetching https://www.matchesio.com/s/0HGxlz_PpC8nr19-kLu9GyOKczf0D_HcACVkvOXMwg4.ics: 404 Client Error: Not Found for url: https://www.matchesio.com/s/0HGxlz_PpC8nr19-kLu9GyOKczf0D_HcACVkvOXMwg4.ics
+2026-11-12 08:00:06.686439 - FAILED fetching https://www.matchesio.com/s/lwgyyLH9aoqaWl6jTy3nH0tRibEfwtYipl6NtCx4VCo.ics: 404 Client Error: Not Found for url: https://www.matchesio.com/s/lwgyyLH9aoqaWl6jTy3nH0tRibEfwtYipl6NtCx4VCo.ics
+2026-11-12 08:00:06.691623 - Merge complete. 0 feeds ok, 3 failed, 0 duplicates removed, 0 preferred-team matches found.
